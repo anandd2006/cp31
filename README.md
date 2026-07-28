@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 54 | 15 |
+| 55 | 15 |
 
 ---
 
@@ -21,8 +21,8 @@
 - [games](#games) (2)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (22)
-- [implementation](#implementation) (15)
-- [math](#math) (25)
+- [implementation](#implementation) (16)
+- [math](#math) (26)
 - [number theory](#number-theory) (7)
 - [sortings](#sortings) (5)
 - [strings](#strings) (5)
@@ -137,6 +137,7 @@
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
+| 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
 | 1675B | [Make It Increasing](https://codeforces.com/contest/1675/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/1675/B%20-%20Make%20It%20Increasing/solution.cpp) |
 | 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.cpp) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.cpp) |
@@ -156,6 +157,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
 | 1726A | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/1726/A%20-%20Mainak%20and%20Array/solution.cpp) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
