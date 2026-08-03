@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 68 | 17 |
+| 69 | 17 |
 
 ---
 
@@ -27,7 +27,7 @@
 - [math](#math) (36)
 - [number theory](#number-theory) (10)
 - [sortings](#sortings) (5)
-- [strings](#strings) (6)
+- [strings](#strings) (7)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -254,6 +254,7 @@
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
 | 1883B | [Chemistry](https://codeforces.com/contest/1883/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/1883/B%20-%20Chemistry/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
+| 1913B | [Swap and Delete](https://codeforces.com/contest/1913/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/1913/B%20-%20Swap%20and%20Delete/solution.cpp) |
 
 ### two pointers
 
