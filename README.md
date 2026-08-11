@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 82 | 18 |
+| 83 | 18 |
 
 ---
 
@@ -24,12 +24,12 @@
 - [games](#games) (3)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (36)
-- [implementation](#implementation) (19)
+- [implementation](#implementation) (20)
 - [math](#math) (42)
 - [number theory](#number-theory) (11)
 - [sortings](#sortings) (9)
 - [strings](#strings) (8)
-- [two pointers](#two-pointers) (4)
+- [two pointers](#two-pointers) (5)
 
 ---
 
@@ -190,6 +190,7 @@
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
 | 1675B | [Make It Increasing](https://codeforces.com/contest/1675/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/1675/B%20-%20Make%20It%20Increasing/solution.cpp) |
+| 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.cpp) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.cpp) |
 | 1704B | [Luke is a Foodie](https://codeforces.com/contest/1704/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/1704/B%20-%20Luke%20is%20a%20Foodie/solution.cpp) |
 | 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.cpp) |
@@ -300,6 +301,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.cpp) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.cpp) |
 | 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.cpp) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.cpp) |
