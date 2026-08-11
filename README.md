@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 84 | 18 |
+| 85 | 19 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
+- [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (2)
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (18)
@@ -38,6 +39,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1457A | [Prison Break](https://codeforces.com/contest/1457/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/1457/A%20-%20Prison%20Break/solution.cpp) |
 
 ### binary search
 
