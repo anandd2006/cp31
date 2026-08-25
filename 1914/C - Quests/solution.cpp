@@ -1,0 +1,49 @@
+#include <bits/stdc++.h>
+using namespace std;
+ 
+using ll = long long;
+ 
+#define all(x) (x).begin(), (x).end()
+#define rall(x) (x).rbegin(), (x).rend()
+ 
+const ll INF = 1e18;
+const int MOD = 1e9 + 7;
+ 
+void solve() {
+    int n, k;
+    cin >> n >> k;
+ 
+    vector<int> a(n), b(n);
+ 
+    for (int &x : a) cin >> x;
+    for (int &x : b) cin >> x;
+ 
+    ll sb = 0;
+    ll ans = 0;
+    ll sum = 0;
+ 
+    for (int i = 0; i < min(n, k); i++) {
+        sum += a[i];
+        sb = max(sb, (ll)b[i]);
+ 
+        ll curr = sum + 1LL * (k - i - 1) * sb;
+        ans = max(ans, curr);
+    }
+ 
+    cout << ans << '
+';
+}
+ 
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+ 
+    int t;
+    cin >> t;
+ 
+    while (t--) {
+        solve();
+    }
+ 
+    return 0;
+}
