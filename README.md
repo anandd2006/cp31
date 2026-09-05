@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 116 | 20 |
+| 117 | 20 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (3)
+- [Uncategorized](#uncategorized) (4)
 - [binary search](#binary-search) (6)
 - [bitmasks](#bitmasks) (5)
 - [brute force](#brute-force) (26)
@@ -48,6 +48,7 @@
 | 1457A | [Prison Break](https://codeforces.com/contest/1457/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/1457/A%20-%20Prison%20Break/solution.cpp) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/2259/B%20-%20Minus%20Two/solution.cpp) |
+| 2259C | [101](https://codeforces.com/contest/2259/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/2259/C%20-%20101/solution.cpp) |
 
 ### binary search
 
