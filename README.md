@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 137 | 20 |
+| 138 | 20 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (8)
+- [Uncategorized](#uncategorized) (9)
 - [binary search](#binary-search) (7)
 - [bitmasks](#bitmasks) (6)
 - [brute force](#brute-force) (29)
@@ -53,6 +53,7 @@
 | 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/2266/A%20-%20Good%20Contest/solution.cpp) |
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
 | 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.cpp) |
+| 2266D | [Falling Concrete](https://codeforces.com/contest/2266/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/anandd2006/cp31/blob/HEAD/2266/D%20-%20Falling%20Concrete/solution.cpp) |
 
 ### binary search
 
