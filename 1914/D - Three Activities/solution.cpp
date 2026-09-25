@@ -1,0 +1,51 @@
+#include <bits/stdc++.h>
+using namespace std;
+ 
+using ll = long long;
+ 
+#define all(x) (x).begin(), (x).end()
+#define rall(x) (x).rbegin(), (x).rend()
+ 
+const ll INF = 1e18;
+const int MOD = 1e9 + 7;
+ 
+void solve() {
+    int n;
+    cin>>n;
+    vector<pair<int,int>> a(n),b(n),c(n);
+    for(int i=0;i<n;i++){
+        cin>>a[i].first;
+        a[i].second=i;
+    }for(int i=0;i<n;i++){
+        cin>>b[i].first;
+        b[i].second=i;
+    }for(int i=0;i<n;i++){
+        cin>>c[i].first;
+        c[i].second=i;
+    }
+    sort(rall(a));
+    sort(rall(b));
+    sort(rall(c));
+    int ans=0;
+    for(int i=0;i<3;i++){
+        for(int j=0;j<3;j++){
+            for(int k=0;k<3;k++){
+                if(a[i].second!=b[j].second&&b[j].second!=c[k].second&&c[k].second!=a[i].second)
+                    ans=max(ans,(a[i].first+b[j].first+c[k].first));
+            }
+        }
+    }
+    cout<<ans<<'
+';
+}
+ 
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+ 
+    int t;
+    cin >> t;
+    while (t--) solve();
+ 
+    return 0;
+}
